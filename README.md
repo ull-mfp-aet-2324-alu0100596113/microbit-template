@@ -3,7 +3,7 @@
 
 ## Edit this project
 
-{{ site.asignatura }}
+## {{ site.asignatura }}
 
 ## Enlaces de la práctica:
 Organización
