@@ -3,6 +3,8 @@
 
 ## Edit this project
 
+{{ site.asignatura }}
+
 ## Enlaces de la práctica:
 Organización
 https://github.com/orgs/ull-mfp-aet-2324-alu0100596113/repositories
